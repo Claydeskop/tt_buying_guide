@@ -12,9 +12,14 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/NOTICES": "d6cf2013e92ed3d2ce0ac34af8f84368",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
+"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
+"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
+"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
+"flutter.js": "1cfe996e845b3a8a33f57607e8b09ee4",
 "index.html": "6eaadd7d35e1311888a8065bf3b9709f",
 "/": "6eaadd7d35e1311888a8065bf3b9709f",
-"main.dart.js": "4ea0dcee45dd37f65334901351a7c74b",
+"main.dart.js": "48eca0bb38d9cd73cc0299a67a6f6df9",
 "version.json": "06c4b3ba17ec84af724b44916022f5a2"
 };
 
